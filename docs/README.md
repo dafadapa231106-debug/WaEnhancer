@@ -1,16 +1,27 @@
-| **English** | [Português(Brasil)](README.pt-BR.md)
+coindrop.to/paipaphttps://coindrop.to/dev4modCopyright 2016 SoundCloud
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 # WaEnhancer
 <div align="center">
   <p><strong>WaEnhancer is an Xposed module that enhances your WhatsApp experience.</p></strong>
   <p><strong>Warning:</strong> This module is intended for educational purposes only, you may have problems with your WhatsApp account, risk of banning! Use it at your own risk.</p>
-  <p>Please note that this project is currently in development, so bugs and crashes may occur. If you encounter any issues report them in our group or create an <a href="https://github.com/Dev4Mod/WaEnhancer/issues">issue</a> here.</p>
+  <p>Please note that this project is currently in development, so bugs and crashes may occur. If you encounter any issues report them in our group or create an <a href="https://github.com/Dev4Mod/WaEnhancer/issues">issue</a> here.</pp
 </div>
 
 
-## Main Features
-<details closed>
-  <summary>Privacy</summary>
+## Main s<details cclos2ed
+  <summary>Privacy</ssummary
 
 - `Hide Forwarded Tag`
 - `Remove Forward Limit`
